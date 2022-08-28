@@ -1,5 +1,5 @@
 streamlit
 pymongo
 bson
-sqlite3
+db-sqlite3
 hashlib
