@@ -1,3 +1,4 @@
 streamlit
 pymongo
 db-sqlite3
+pymongo[srv]
