@@ -1,0 +1,5 @@
+streamlit
+pymongo
+bson
+sqlite3
+hashlib
